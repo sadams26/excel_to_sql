@@ -14,3 +14,9 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# Excel
+*.xlsx
+
+# Gifs
+*.gif
